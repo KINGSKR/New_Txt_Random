@@ -9,7 +9,7 @@ class Config(object):
     pass
     """
     BOT_TOKEN = os.environ.get("BOT_TOKEN", "7102953145:AAHI4lg9NnAfbk-b1dqceEhis3WCkCl2pCU")
-    API_ID = int(os.environ["API_ID", 26194055]
-    API_HASH = os.environ["API_HASH", "68994ced9b285e17598796757d6f5110"]
+    API_ID = int(os.environ["API_ID", 23537514]
+    API_HASH = os.environ["API_HASH", "c5ec016af7d2cb637278b715f4f5a389"]
     AUTH_USERS = "5203030956"""
 # jisko bhi is repo ko deploy karne me error aa raha ho ( https://t.me/Stubborn1223 ) ye mere TG ka id ha message karke iska screen shot send kar dena me error solve kar dunga. 
